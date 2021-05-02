@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in: Learning platform for complex systems (Earth Science)
 - 🌱 I’m currently learning: https://github.com/danistefanovic/build-your-own-x
-- 💞️ I’m looking to collaborate on: Game dev
+- 💞️ I’m looking to collaborate on: 
 - 📫 How to reach me: Twitter(@kenzan100) or LinkedIn(https://www.linkedin.com/in/kenzan100/)
 
 <!---
